@@ -1,7 +1,7 @@
 ---
-title: "SINC Lab - Research"
+title: "ASPEN Lab - Research"
 layout: textlay
-excerpt: "SINC Lab -- Research"
+excerpt: "ASPEN Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -16,7 +16,7 @@ Here are some of the thematic areas and techniques that we currently work on:
 
 **Computer Architectures**
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/arch.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
-In SINC lab we are currently involved in driving research towards designing next generation of IoT devices, low power memories, emerging memory technolgoies, and accelerated machine learning. Evolution of machine learning and IoT has significantly increased the demand for hardware support in execution of applications that pertains to specific applications in the said domains. We are currently involved at both systems level and circuit level designing for such next generation hardware through VLSI design, fabless design, and use of CAD tools. 
+In ASPEN lab we are currently involved in driving research towards designing next generation of IoT devices, low power memories, emerging memory technolgoies, and accelerated machine learning. Evolution of machine learning and IoT has significantly increased the demand for hardware support in execution of applications that pertains to specific applications in the said domains. We are currently involved at both systems level and circuit level designing for such next generation hardware through VLSI design, fabless design, and use of CAD tools. 
 
 **Research on Ubiquitous Computing** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ubicomp.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -26,7 +26,7 @@ The vision of Ubiquitous Computing lies in the capacity of embedding the 'comput
 **Mobile Systems research** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mobsys.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
-Mobile Systems research at SINC Lab focuses on mobile communication and software. Under this vertical, the aim is to largely develop systems involving mobile devices for solving Socio-technical problems. There are a plethora of problems in this domain, ranging from Driver and Driving behaviour to monitoring the road and environment. This clubbed with Indoor and Outdoor localization strategies, AI/ML techniques, and robust evaluation gives an end-to-end system worthy of being deployed in real-world settings. Along with this, we also look towards leveraging 5G and beyond technologies in the context of smart cities and healthcare. The Mobile Systems vertical of the group has ongoing collaborations with the Industry and Academia alike as well as tie-ups with the Faculty members within and across the department pursuing multi-disciplinary collaborative research.   
+Mobile Systems research at ASPEN Lab focuses on mobile communication and software. Under this vertical, the aim is to largely develop systems involving mobile devices for solving Socio-technical problems. There are a plethora of problems in this domain, ranging from Driver and Driving behaviour to monitoring the road and environment. This clubbed with Indoor and Outdoor localization strategies, AI/ML techniques, and robust evaluation gives an end-to-end system worthy of being deployed in real-world settings. Along with this, we also look towards leveraging 5G and beyond technologies in the context of smart cities and healthcare. The Mobile Systems vertical of the group has ongoing collaborations with the Industry and Academia alike as well as tie-ups with the Faculty members within and across the department pursuing multi-disciplinary collaborative research.   
 
 
 **Toward Next Generation of Blockchain Using Improvized Bitcoin-NG** 
@@ -43,7 +43,7 @@ The Internet of Vehicles (IoV) offers an emerging paradigm that deals with inter
 
 **High Performance Computing (HPC) research** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hpc.png){: style="width: 250px; float: left; margin: 0px  10px"}
-HPC is the de-facto technology used for fast computing in applications which involve massive volumes of data and requires multiple computers to work toegether towards executing an algorithm. In SINC lab we are mostly looking at problems involving several data-centric applications specifically in the domain of large graphs, social network analysis, and data mining. HPC typically involves significant use of modern multi-core processors such as multi-core CPUs, and many-core processors such as GPUs which play a critical role in accelerating the execution. Research typically entails devising algorithms for parallel and distributed comptuing, data partitioning, distribution, communication among processors, consolodation, and synchronization. Specific problems of current interest lies in the areas of massive graph analytics, dynamic graphs, designing of efficien runtimes for generic data minign problems, exploitation of HPC hardwre features, and heterogeneity.
+HPC is the de-facto technology used for fast computing in applications which involve massive volumes of data and requires multiple computers to work toegether towards executing an algorithm. In ASPEN lab we are mostly looking at problems involving several data-centric applications specifically in the domain of large graphs, social network analysis, and data mining. HPC typically involves significant use of modern multi-core processors such as multi-core CPUs, and many-core processors such as GPUs which play a critical role in accelerating the execution. Research typically entails devising algorithms for parallel and distributed comptuing, data partitioning, distribution, communication among processors, consolodation, and synchronization. Specific problems of current interest lies in the areas of massive graph analytics, dynamic graphs, designing of efficien runtimes for generic data minign problems, exploitation of HPC hardwre features, and heterogeneity.
 
 
 ### ... and more.

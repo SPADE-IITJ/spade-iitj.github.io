@@ -1,7 +1,7 @@
 ---
-title: "SINC Lab - Team"
+title: "ASPEN Lab - Team"
 layout: gridlay
-excerpt: "SINC Lab: Team members"
+excerpt: "ASPEN Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -193,5 +193,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-Reach us via our <a href="mailto:sinclab@cse.iitj.ac.in">direct email</a> for further discussions on possible positions, collaborations, and join research activities.   
+Reach us via our <a href="mailto:ASPENlab@cse.iitj.ac.in">direct email</a> for further discussions on possible positions, collaborations, and join research activities.   
 <a href="mailto:office_cse@iitj.ac.in">Office CSE, IITJ</a> is helping us (and other groups) with administration. You can additionally also email individual faculty members for more information on the work that they are pursuing.

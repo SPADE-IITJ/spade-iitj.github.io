@@ -1,7 +1,7 @@
 ---
-title: "SINC Lab - Publications"
+title: "ASPEN Lab - Publications"
 layout: gridlay
-excerpt: "SINC Lab -- Publications."
+excerpt: "ASPEN Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
