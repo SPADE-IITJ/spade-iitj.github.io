@@ -43,6 +43,13 @@
   number_educ: 0
   education1:
 
+- name: Akanskha Dwivedi
+  photo: rock.jpg
+  info: PhD student (2023 - )
+  email:
+  number_educ: 0
+  education1:
+
 - name: Dixit Dutt Bohra, jointly with Prof. Somitra K. Sanadhya
   photo: rock.jpg
   info: PhD student (2023 - )
@@ -59,7 +66,7 @@
 
 - name: Prajjwal Nijhara
   photo: rock.jpg
-  info: MTech+PhD student (2023 - )
+  info: Mtech-PhD student (2023 - )
   email:
   number_educ: 0
   education1:
