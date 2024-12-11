@@ -56,7 +56,7 @@ permalink: /publications/
 {% for journal in site.data.journals %}
 
   {{ journal.title }} <br />
-  <em>{{ journal.authors }} </em><br /><a href="{{ jounral.link.url }}">{{ jounral.link.display }}</a>
+  <em>{{ journal.authors }} </em><br /><a href="{{ journal.link.url }}">{{ journal.link.display }}</a>
 
 {% endfor %}
 
@@ -65,6 +65,15 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /> {{ publi.link.display }}
+
+{% endfor %}
+
+## Posters
+
+{% for poster in site.data.poster %}
+
+  {{ publi.title }} <br />
+  <em>{{ poster.authors }} </em><br /> {{ poster.link.display }}
 
 {% endfor %}
