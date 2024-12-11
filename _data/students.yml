@@ -8,31 +8,65 @@
 #  education3:
 #  education4:
 
-- name: Garvit Chugh
+- name: Issa Baddour (PhD 2020 - ) jointly with Prof. Somitra K. Sanadhya
   photo: rock.jpg
-  info: Master student
+  info: PhD student
   email: email@iitj.ac.in
   number_educ: 0
   education1:
 
-- name: Padmakshi Mazumder
+- name: Sagar Satapathy (PhD 2020
   photo: rock.jpg
-  info: Master student
-  email: email@iitj.ac.in
+  info: PhD student
+  email:
   number_educ: 0
   education1:
 
-- name: Abhishek Sikarwar
+- name: Kopal Rastogi (PhD 2021 - ) jointly with Dr. Dipanjan Roy
   photo: rock.jpg
-  info: Master student
-  email: email@iitj.ac.in
-  number_educ: 0
-  education1:
- 
-- name: Dolly Banswal
-  photo: rock.jpg
-  info: Master student
-  email: email@iitj.ac.in
+  info: PhD student
+  email:
   number_educ: 0
   education1:
 
+- name: Umme Abiha (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Harsh Saxena (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Ankit Kumar (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Dixit Dutt Bohra (PhD 2023 - ) jointly with Prof. Somitra K. Sanadhya
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Prakash Narain (PhD 2023 - )
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Prajjwal Nijhara (MTech-PhD 2023 - )
+  photo: rock.jpg
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
