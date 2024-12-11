@@ -119,7 +119,7 @@ th {
 
 // Hover effect
 //
-// Placed here ASPENe it has to come after the potential zebra striping
+// Placed here SPADEe it has to come after the potential zebra striping
 
 .table-hover {
   > tbody > tr:hover {
@@ -216,7 +216,7 @@ table {
         }
       }
 
-      // Only nuke the last row's bottom-border in `tbody` and `tfoot` ASPENe
+      // Only nuke the last row's bottom-border in `tbody` and `tfoot` SPADEe
       // chances are there will be only one `tr` in a `thead` and that would
       // remove the border altogether.
       > tbody,

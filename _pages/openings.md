@@ -1,5 +1,5 @@
 ---
-title: "ASPEN Lab - Vacancies"
+title: "SPADE Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

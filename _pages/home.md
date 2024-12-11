@@ -1,7 +1,7 @@
 ---
-title: "ASPEN Lab - Home"
+title: "SPADE Lab - Home"
 layout: homelay
-excerpt: "ASPEN Lab at IIT Jodhpur."
+excerpt: "SPADE Lab at IIT Jodhpur."
 sitemap: false
 permalink: /
 ---

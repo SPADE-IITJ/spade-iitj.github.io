@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "ASPEN Lab at IIT Jodhpur"
+excerpt: "SPADE Lab at IIT Jodhpur"
 sitemap: false
 permalink: /allnews.html
 ---

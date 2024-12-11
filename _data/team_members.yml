@@ -85,8 +85,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="https://ASPENlab-iitj.github.io/vacancies">openings</a> for more info
-  email: ASPENlab@cse.iitj.ac.in
+  info: See <a href="https://SPADElab-iitj.github.io/vacancies">openings</a> for more info
+  email: SPADElab@cse.iitj.ac.in
   number_educ: 0
   education1:
   education2:

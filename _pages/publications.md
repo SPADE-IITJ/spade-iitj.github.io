@@ -1,7 +1,7 @@
 ---
-title: "ASPEN Lab - Publications"
+title: "SPADE Lab - Publications"
 layout: gridlay
-excerpt: "ASPEN Lab -- Publications."
+excerpt: "SPADE Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
