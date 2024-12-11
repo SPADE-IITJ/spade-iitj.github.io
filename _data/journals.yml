@@ -1,0 +1,71 @@
+- title: "Parallel Multicore Algorithms for Community Detection in Dynamic Graphs"
+  image: 
+  description: 
+  authors: Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee
+  link:
+    url: 
+    display: International Journal of Networked Computing (Accepted 2024)
+
+- title: "Demystifying Non-Invasive Approaches For Screening Jaundice in Low Resource Settings: A Review"
+  image: 
+  description: 
+  authors: Umme Abiha, Saptarshi Mandal, and Dip Sankar Banerjee
+  link:
+    url: https://doi.org/10.3389/fped.2023.1292678
+    display: Frontiers in Pediatrics (2023)
+
+- title: "Variation Aware Power Management of GPU Memories"
+  image: 
+  description: 
+  authors: Divyansh Maura, Tanmay Goel, Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das
+  link:
+    url: https://doi.org/10.1016/j.micpro.2022.104711
+    display: Microprocessors and Microsystems (2023)
+
+- title: "Deep Unsupervised Methods towards Behavior Analysis in Ubiquitous Sensor Data"
+  image: 
+  description: 
+  authors: Manan Sharma, Shivam Tiwari, Gaurav Ruhela, Suchetana Chakraborty, and Dip Sankar Banerjee
+  link:
+    url: https://doi.org/10.1016/j.iot.2021.100486
+    display: Internet of Things (IoT) (2021)
+
+- title: "Towards Enhanced System Efficiency While Mitigating Row Hammer"
+  image: 
+  description: 
+  authors: Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das
+  link:
+    url: https://doi.org/10.1145/3458749
+    display: ACM Transactions on Architecture and Code Optimization (TACO) (2021)
+
+- title: "Semi-Supervised Subject Recognition in Low Modal Sensor Data"
+  image: 
+  description: 
+  authors: Sourish Gunesh Dhekane, Shivam Tiwari, Krishnam Vajra, and Dip Sankar Banerjee
+  link:
+    url: https://doi.org/10.1016/j.adhoc.2021.102472
+    display: Ad Hoc Networks (2021)
+
+- title: "Accelerating Influence Maximization using Heterogeneous Algorithms"
+  image: 
+  description: 
+  authors: Mridul Haque, Dip Sankar Banerjee
+  link:
+    url: https://doi.org/10.1007/s11227-019-03061-8
+    display: The Journal of Supercomputing (2019)
+
+- title: "Work Efficient Parallel Algorithms for Large Graph Exploration on Emerging Heterogeneous Architectures"
+  image: 
+  description: 
+  authors: Dip Sankar Banerjee, Meher Chaitanya, Ashutosh Kumar, Shashank Sharma, Kishore Kothapalli
+  link:
+    url: https://doi.org/10.1016/j.jpdc.2014.11.006
+    display: Journal of Parallel and Distributed Computing (JPDC) (2015)
+
+- title: "Comparison Sorting on Hybrid Multicore Architectures for Fixed and Variable Length Keys"
+  image: 
+  description: 
+  authors: Dip Sankar Banerjee, Kishore Kothapalli
+  link:
+    url: https://doi.org/10.1177/1094342014526906
+    display: International Journal of High Performance Computing Applications (IJHPCA) (2014)

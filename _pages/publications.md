@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+<!-- ## Group highlights
 
 (For a full list see [below](#full-list) or go to Google Scholar pages of team members.
 
@@ -49,10 +49,18 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
+## Journals
 
-## Full List
+{% for journal in site.data.journals %}
+
+  {{ journal.title }} <br />
+  <em>{{ journal.authors }} </em><br /><a href="{{ jounral.link.url }}">{{ jounral.link.display }}</a>
+
+{% endfor %}
+
+## International Conference
 
 {% for publi in site.data.publist %}
 
