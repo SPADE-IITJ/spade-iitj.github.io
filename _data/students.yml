@@ -43,13 +43,6 @@
   number_educ: 0
   education1:
 
-- name: Ankit Kumar, jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
-  photo: rock.jpg
-  info: PhD Medical Technologies student (2021 - )
-  email:
-  number_educ: 0
-  education1:
-
 - name: Dixit Dutt Bohra, jointly with Prof. Somitra K. Sanadhya
   photo: rock.jpg
   info: PhD student (2023 - )
@@ -66,7 +59,7 @@
 
 - name: Prajjwal Nijhara
   photo: rock.jpg
-  info: MTech-PhD student (2023 - )
+  info: MTech+PhD student (2023 - )
   email:
   number_educ: 0
   education1:
