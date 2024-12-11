@@ -1,10 +1,7 @@
 - title: "Parallel Katz Centrality On Evolving Graphs"
   image: 
   description: 
-  authors: 
-    - Dishit Sharma
-    - Prajjwal Nijhara
-    - Dip Sankar Banerjee
+  authors: "Dishit Sharma, Prajjwal Nijhara, Dip Sankar Banerjee"
   link:
     url: 
     display: "Poster at IEEE HiPC 2024"
@@ -12,10 +9,7 @@
 - title: "Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design"
   image: 
   description: 
-  authors: 
-    - Dixit Dutt Bohra
-    - Dip Sankar Banerjee
-    - Somitra Kumar Sanadhya
+  authors: "Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya"
   link:
     url: 
     display: "Poster at IEEE HiPC 2024"
@@ -23,11 +17,7 @@
 - title: "SimRank on Data Streams"
   image: 
   description: 
-  authors: 
-    - Dhyan Yajnik
-    - Huzefa Ayub Ansari
-    - Prajjwal Nijhara
-    - Dip Sankar Banerjee
+  authors: "Dhyan Yajnik, Huzefa Ayub Ansari, Prajjwal Nijhara, Dip Sankar Banerjee"
   link:
     url: 
     display: "At the Student Research Symposium of IEEE HiPC 2024"
@@ -35,10 +25,7 @@
 - title: "Efficient Parallel Algorithms For Exact SimRank Computations"
   image: 
   description: 
-  authors: 
-    - Aditya Mundhara
-    - Prajjwal Nijhara
-    - Dip Sankar Banerjee
+  authors: "Aditya Mundhara, Prajjwal Nijhara, Dip Sankar Banerjee"
   link:
     url: 
     display: "At the Student Research Symposium of IEEE HiPC 2024"
@@ -46,10 +33,7 @@
 - title: "Fast MIS on Incremental Graphs"
   image: 
   description: 
-  authors: 
-    - Aditya Trivedi
-    - Prajjwal Nijhara
-    - Dip Sankar Banerjee
+  authors: "Aditya Trivedi, Prajjwal Nijhara, Dip Sankar Banerjee"
   link:
     url: 
     display: "At the Student Research Symposium of IEEE HiPC 2024"
@@ -57,10 +41,7 @@
 - title: "Efficient Parallel Algorithms for Large Tree Contraction"
   image: 
   description: 
-  authors: 
-    - Akanksha Dwivedi
-    - Sameer Sharma
-    - Dip Sankar Banerjee
+  authors: "Akanksha Dwivedi, Sameer Sharma, Dip Sankar Banerjee"
   link:
     url: 
     display: "At the Student Research Symposium of HiPC 2023"
@@ -68,9 +49,7 @@
 - title: "State Preserving Dynamic DRAM Bank Re-configurations for Enhance Power Efficiency"
   image: 
   description: 
-  authors: 
-    - Kaustav Goswami
-    - Dip Sankar Banerjee
+  authors: "Kaustav Goswami, Dip Sankar Banerjee"
   link:
     url: 
     display: "In Student Research Symposium of 25th International Conference on High Performance Computing, Data, and Analytics (HiPC). Bengaluru December 2018. [BEST POSTER AWARD]"
@@ -78,9 +57,7 @@
 - title: "Hybrid Pseudo Random Number Generator"
   image: 
   description: 
-  authors: 
-    - Dip Sankar Banerjee
-    - Kishore Kothapalli
+  authors: "Dip Sankar Banerjee, Kishore Kothapalli"
   link:
     url: 
     display: "Poster at the 3rd IBM Collaborative Academia Research Exchange (I-CARE) workshop, October 13, 2011"
@@ -88,10 +65,7 @@
 - title: "Hybrid GPU Accelerated Parallel Connected Components"
   image: 
   description: 
-  authors: 
-    - Dip Sankar Banerjee
-    - Kishore Kothapalli
-    - PJ Narayanan
+  authors: "Dip Sankar Banerjee, Kishore Kothapalli, PJ Narayanan"
   link:
     url: 
     display: "In The Proceedings of PhD Forum, The 12th International Conference on Distributed Computing and Networking (ICDCN), January 2-5, 2011"

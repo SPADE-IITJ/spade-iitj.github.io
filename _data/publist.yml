@@ -1,311 +1,190 @@
 - title: "High-Performance Implementation of Louvain Algorithm with Representational Optimizations"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "Complex Networks, Istanbul Turkey (2024)"
-
+    display: "Complex Networks, Istanbul Turkey, (2024)"
 - title: "SideLink: Exposing NVLink to Covert and Side-Channel Attacks"
-  image: 
-  description: 
-  authors: 
-    - Issa Baddour
-    - Dip Sankar Banerjee
-    - Somitra Kumar Sanadhya
+  authors: "Issa Baddour, Dip Sankar Banerjee, Somitra Kumar Sanadhya"
   link:
     url: 
     display: "14th International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE), Kerala, India, December 14-17, 2024"
-
 - title: "MST in Incremental Graphs Through Tree Contractions"
-  image: 
-  description: 
-  authors: 
-    - Akanksha Dwivedi
-    - Sameer Sharma
-    - Dip Sankar Banerjee
+  authors: "Akanksha Dwivedi, Sameer Sharma, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "28th IEEE High Performance Extreme Computing (HPEC), Boston, USA (2024)"
-
+    display: "28th IEEE High Performance Extreme Computing (HPEC), Boston, USA 2024"
 - title: "GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in the Shared Memory Setting"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "Workshop on High-Performance eScience (HiPES) in conjunction with 30th International European Conference on Parallel and Distributed Computing (Euro-Par), 26 - 30 August 2024, Madrid, Spain"
-
+    display: "The Workshop on High-Performance eScience (HiPES) in conjunction with 30th International European Conference on Parallel and Distributed Computing (Euro-Par), 26 - 30 August 2024. Madrid, Spain"
 - title: "Voxelization of Moving Deformable Geometries on GPU"
-  image: 
-  description: 
-  authors: 
-    - Ronith Kumar
-    - Raman Deep
-    - Nipun Arora
-    - Dip Sankar Banerjee
+  authors: "Ronith Kumar, Raman Deep, Nipun Arora, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "23rd International Symposium on Parallel and Distributed Computing (ISPDC), Chur, Switzerland, 2024"
-
+    display: "23rd International Symposium on Parallel and Distributed Computing (ISPDC). Chur, Switzerland. 2024"
 - title: "Fast Leiden Algorithm for Community Detection in the Shared Memory Setting"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "53rd International Conference on Parallel Processing (ICPP), Sweden 2024"
-
+    display: "53rd International Conference on Parallel Processing (ICPP), Sweden 2024"
 - title: "Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "26th Workshop in Advances in Parallel and Distributed Computing Models (APDCM) workshop held in conjunction with 38th IEEE Parallel and Distributed Processing Symposium (IPDPS) 2024 [OUTSTANDING PAPER AWARD]"
-
+    display: "26th Workshop in Advances in Parallel and Distributed Computing Models (APDCM) workshop held in conjunction with 38th IEEE Parallel and Distributed Processing Symposium (IPDPS) 2024. [OUTSTANDING PAPER AWARD]"
 - title: "Shared-Memory Parallel Dynamic Louvain Algorithm for Community Detection"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
     display: "38th IEEE Parallel and Distributed Processing Symposium (IPDPS) 2024"
-
 - title: "Voxelization of Moving Geometries on GPU"
-  image: 
-  description: 
-  authors: 
-    - Rishabh Shukla
-    - Nipun Arora
-    - Dip Sankar Banerjee
+  authors: "Rishabh Shukla; Nipun Arora; Dip Sankar Banerjee"
   link:
     url: 
-    display: "24th IEEE High Performance Computing and Communications (HPCC), Chengdu China, 2022"
-
+    display: "24th IEEE High Performance Computing and Communications (HPCC). Chengdu China. 2022"
 - title: "A Case for Amplifying Row Hammer Attacks via Cell-Coupling in DRAM Devices"
-  image: 
-  description: 
-  authors: 
-    - Kaustav Goswami
-    - Shirshendu Das
-    - Sagar Satapathy
-    - Dip Sankar Banerjee
+  authors: "Kaustav Goswami, Shirshendu Das, Sagar Satapathy and Dip Sankar Banerjee"
   link:
     url: 
-    display: "The International Symposium on Memory Systems (MEMSYS), December 2022"
-
+    display: "The International Symposium on Memory Systems (MEMSYS). December 2022"
 - title: "Dynamic Batch Parallel Algorithms for Updating Pagerank"
-  image: 
-  description: 
-  authors: 
-    - Shubhajit Sahu
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Shubhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee"
   link:
     url: 
-    display: "Workshop on Parallel and Distributed Processing for Computational Social Sciences (ParSocial) in conjunction with 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022"
-
+    display: "Workshop on Parallel and Distributed Processing for Computaional Social Sciences (ParSocial) to be held in conjuction with 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022"
 - title: "Shared-Memory Parallel Algorithms for Fully Dynamic Maintenance of 2-Connected Components"
-  image: 
-  description: 
-  authors: 
-    - Chirayu Hariyan
-    - G Ramakrishna
-    - Kishore Kothapalli
-    - Dip Sankar Banerjee
+  authors: "Chirayu Hariyan, G Ramakrishna, Kishore Kothapalli, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "36th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022"
-
+    display: "36th IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022"
 - title: "ART-MAC: an Approximate Rounding and Truncation Based Mac Unit for Fault-Tolerant Applications"
-  image: 
-  description: 
-  authors: 
-    - Divy Pandey
-    - Saurabh Singh
-    - Vishesh Mishra
-    - Sagar Satapathy
-    - Babita Jajodia
-    - Dip Sankar Banerjee
+  authors: "Divy Pandey, Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Babita Jajodia, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA, May 2022"
-
+    display: "IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022"
 - title: "AxLEAP: Enabling Low-Power Approximations Through Unified Power Format"
-  image: 
-  description: 
-  authors: 
-    - Sagar Satapathy
-    - Vishesh Mishra
-    - Divy Pandey
-    - Saurabh Singh
-    - Dip Sankar Banerjee
+  authors: "Sagar Satapathy, Vishesh Mishra, Divy Pandey, and Saurabh Singh, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA, May 2022"
-
+    display: "IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022"
 - title: "HPAM: An 8-bit High-Performance Approximate Multiplier Design for Error Resilient Applications"
-  image: 
-  description: 
-  authors: 
-    - Divy Pandey
-    - Vishesh Mishra
-    - Saurabh Singh
-    - Sagar Satapathy
-    - Babita Jajodia
-    - Dip Sankar Banerjee
+  authors: "Divy Pandey, Vishesh Mishra, Saurabh Singh, Sagar Satapathy, Babita Jajodia and Dip Sankar Banerjee"
   link:
     url: 
-    display: "23rd International Symposium on Quality Electronic Design (ISQED), 2022"
-
+    display: "23rd International Symposium on Quality Electronic Design (ISQED), 2022"
 - title: "EFCSA: An Efficient Carry Speculative Approximate Adder with Rectification"
-  image: 
-  description: 
-  authors: 
-    - Saurabh Singh
-    - Vishesh Mishra
-    - Sagar Satapathy
-    - Divy Pandey
-    - Kaustav Goswami
-    - Dip Sankar Banerjee
-    - Babita Jajodia
+  authors: "Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Divy Pandey, Kaustav Goswami, Dip Sankar Banerjee, and Babita Jajodia"
   link:
     url: 
-    display: "23rd International Symposium on Quality Electronic Design (ISQED), 2022"
-
+    display: "23rdnd International Symposium on Quality Electronic Design (ISQED), 2022"
 - title: "Enhanced Annotation Framework for Activity Recognition Through Change Point Detection"
-  image: 
-  description: 
-  authors: 
-    - Sourish Gunesh Dhekane
-    - Shivam Tiwari
-    - Manan Sharma
-    - Dip Sankar Banerjee
+  authors: "Sourish Gunesh Dhekane; Shivam Tiwari; Manan Sharma; and Dip Sankar Banerjee"
   link:
     url: 
-    display: "14th IEEE International Conference on COMmunication Systems; NETworkS (COMSNETS), 2022"
-
-- title: "ApproxBioWear: Approximating Additions for Efficient Biomedical Wearable Computing at the Edge"
-  image: 
-  description: 
-  authors: 
-    - Alish Kanani
-    - Rajat Bhattacharya
-    - Dip Sankar Banerjee
+    display: "14th IEEE International Conference on COMmunication Systems; NETworkS (COMSNETS) (2022)"
+- title: "ApproxBioWear:  Approximating  Additions  for  Efficient  Biomedical Wearable  Computing  at  the  Edge"
+  authors: "Alish Kanani, Rajat Bhattacharya, Dip Sankar Banerjee"
   link:
     url: 
-    display: "43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), October 2021, Virtual Event"
-
+    display: "43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). October 2021. Virtual Event"
 - title: "SAM: A Segmentation Based Approximate Multiplier for Error Tolerant Applications"
-  image: 
-  description: 
-  authors: 
-    - Divy Pandey
-    - Saurabh Singh
-    - Vishesh Mishra
-    - Sagar Satapathy
-    - Dip Sankar Banerjee
+  authors: "Divy Pandey, Saurabh Singh, Vishesh Mishra, Sagar Satapathy, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Symposium on Circuits and Systems (ISCAS) 2021, Daegu, Korea, May 2021"
-
+    display: "IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2021, Daegu, Korea . May 2021"
 - title: "Towards Row Sensitive DRAM Refresh through Retention Awareness"
-  image: 
-  description: 
-  authors: 
-    - Tanmay Goel
-    - Divyansh Singh Maura
-    - Kaustav Goswami
-    - Shirsendu Das
-    - Dip Sankar Banerjee
+  authors: "Tanmay Goel, Divyansh Singh Maura, Kaustav Goswami, Shirsendu Das, and Dip Sankar Banerjee"
   link:
     url: 
     display: "22nd International Symposium on Quality Electronic Design (ISQED), 2021, Virtual Event, Santa Clara, California, USA"
-
 - title: "ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction"
-  image: 
-  description: 
-  authors: 
-    - Shobhit Belwal
-    - Rajat Bhattacharya
-    - Divyansh Maura
-    - Dip Sankar Banerjee
+  authors: "Shobhit Belwal, Rajat Bhattacharya, Kaustav Goswami, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "16th ACM International Conference on Computing Frontiers (CF '21), 2021"
-
-- title: "A Comparative Study of Multi-Resistor Parallelism in Approximate Logic Circuits"
-  image: 
-  description: 
-  authors: 
-    - Saurabh Singh
-    - Rajat Bhattacharya
-    - Vishesh Mishra
-    - Dip Sankar Banerjee
+    display: "22nd International Symposium on Quality Electronic Design (ISQED), 2021, Virtual Event, Santa Clara, California, USA"
+- title: "HyPR: Hybrid Page Ranking on Evolving Graphs"
+  authors: "Hemant Kumar Giri, Mridul Haque, and Dip Sankar Banerjee"
   link:
     url: 
-    display: "6th International Conference on Computing and Data Science (CDS 2020)"
-
-- title: "Approximation-Based Approach for Ensuring Efficient On-Chip Communication in Wearable IoT Applications"
-  image: 
-  description: 
-  authors: 
-    - Anish Kesharwani
-    - Rajat Bhattacharya
-    - Manish Verma
-    - Dip Sankar Banerjee
+    display: "27th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC). December 2020 (Virtual Event)"
+- title: "An Approximate Carry Estimating Simultaneous Adder with Rectification"
+  authors: "Rajat Bhattacharya, Vishesh Mishra, Saurabh Singh, Kaustav Goswami and Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Conference on Computing and Data Science, 2020"
-
-- title: "Approximation for Wearable Healthcare Systems: A Study of Circuit-Level Approximations"
-  image: 
-  description: 
-  authors: 
-    - Vishesh Mishra
-    - Rajat Bhattacharya
-    - Saurabh Singh
-    - Dip Sankar Banerjee
+    display: "30th ACM Great Lakes Symposium on VLSI (GLSVLSI), Beijing, China. September 2020 (Virtual Event). [BEST PAPER AWARD]"
+- title: "Semi-supervised Subject Recognition through Pseudo Label Generation in Ubiquitous Sensor Data"
+  authors: "Sourish Dhekane, Krishnam Vajra, Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Conference on Computing and Data Science, 2020"
-
-- title: "Design of Error-Tolerant Computing Circuits for Approximate Multiplication in Healthcare Systems"
-  image: 
-  description: 
-  authors: 
-    - Rajat Bhattacharya
-    - Vishesh Mishra
-    - Saurabh Singh
-    - Dip Sankar Banerjee
+    display: "12th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2020"
+- title: "Behavior Analysis through Routine Cluster Discovery in Ubiquitous Sensor Data"
+  authors: "Manan Sharma, Shivam Tiwari, Suchetana Chakraborty, Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Symposium on Circuits and Systems (ISCAS) 2020"
-
-- title: "A Novel Approximate Multiplier for Error-Tolerant Applications"
-  image: 
-  description: 
-  authors: 
-    - Vishesh Mishra
-    - Saurabh Singh
-    - Rajat Bhattacharya
-    - Dip Sankar Banerjee
+    display: "12th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2020"
+- title: "State Preserving Dynamic DRAM Bank Re-configurations for Enhance Power Efficiency"
+  authors: "Kaustav Goswami, Shirshendu Das, Hemanta Kumar Mondal, Dip Sankar Banerjee"
   link:
     url: 
-    display: "IEEE International Symposium on Circuits and Systems (ISCAS) 2020"
+    display: "20th International Conference on Quality Electronic Design (ISQED). Santa Clara, USA March 2019"
+- title: "Activity Recognition through Feature Learning and Annotations using LSTM"
+  authors: "Nilotpala Sarma, Suchetana Chakraborty, Dip Sankar Banerjee"
+  link:
+    url: 
+    display: "11th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2019"
+- title: "Learning and Annotating Activities for Home Automation using LSTM"
+  authors: "Nilotpala Sarma, Suchetana Chakraborty, Dip Sankar Banerjee"
+  link:
+    url: 
+    display: "11th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2019. [BEST PAPER AWARD]"
+- title: "Enhancing Influence Maximization in Social Networks using Parallel Reverse Reachability Set Computations"
+  authors: "Mridul Haque, Dip Sankar Banerjee"
+  link:
+    url: 
+    display: "11th International Conference on Contemporary Computing (IC3). August 2018"
+- title: "Nearly Balanced Work Partitioning for Heterogeneous Algorithms"
+  authors: "Mallipeddi Hardhik, Dip Sankar Banerjee, Kiran Raj Ramamoorthy, Kishore Kothapalli, and Kannan Srinathan"
+  link:
+    url: 
+    display: "46th International Conference on Parallel Processing (ICPP) to be held at Bristol, UK 14-17 August 2017"
+- title: "Re-designing CNTK Deep Learning Framework on Modern GPU Enabled Clusters"
+  authors: "Dip Sankar Banerjee, Khaled Hamidouche, Dhabaleswar K. Panda"
+  link:
+    url: 
+    display: "8th IEEE International Conference on Cloud Computing Technology and Science (CloudCom) at Luxembourg 12-15 December 2016"
+- title: "Exploiting Maximal Overlap for Non-Contiguous Data Movement Processing on Modern GPU-enabled System"
+  authors: "Ching-Hsiang Chu, Khaled Hamidouche, Akshay Venkatesh, Dip Sankar Banerjee, Hari Subramoni and Dhabaleswar Panda"
+  link:
+    url: 
+    display: "International Parallel and Distributed Processing Symposium (IPDPS), 2016"
+- title: "Designing High Performance Communication Runtime for GPU Managed Memory: Early Experiences"
+  authors: "Dip Sankar Banerjee, Khaled Hamidouche, Dhableswar Panda"
+  link:
+    url: 
+    display: "General Purpose GPU (GPGPU-9) to be held in conjunction with Principles and Practices of Parallel Programming (PPoPP), 2016"
+- title: "A Novel Heterogeneous Algorithm for Multiplying Scale-Free Sparse Matrices"
+  authors: "Kiran Raj Ramamoorthy, Dip Sankar Banerjee, Kishore Kothapalli"
+  link:
+    url: 
+    display: "The Workshop on Accelerators for Hybrid Multicore Systems (AsHES) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), 2015"
+- title: "Work Efficient Parallel Algorithms for Large Graph Exploration"
+  authors: "Dip Sankar Banerjee, Shashank Sharma, Kishore Kothapalli"
+  link:
+    url: 
+    display: "The 20th Annual International Conference on High Performance Computing Conference (HiPC), December 18-21, 2013"
+- title: "Fast Parallel Comparison Sort for Hybrid Multicore Platforms"
+  authors: "Dip Sankar Banerjee, Parikshit Sakurikar, Kishore Kothapalli"
+  link:
+    url: 
+    display: "The Workshop on Accelerators for Hybrid Multicore Systems (AsHES) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), May 20-24, 2013"
+- title: "An On Demand Fast Parallel Pseudo Random Number Generator with Applications"
+  authors: "Dip Sankar Banerjee, Kishore Kothapalli"
+  link:
+    url: 
+    display: "The Workshop on Large Scale Parallel Processing (LSPP) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), May 21-25, 2012"
+- title: "Hybrid Algorithms for List Ranking and Graph Connected Components"
+  authors: "Dip Sankar Banerjee, Kishore Kothapalli"
+  link:
+    url: 
+    display: "The 18th Annual International Conference on High Performance Computing Conference (HiPC), December 18-21, 2011"
