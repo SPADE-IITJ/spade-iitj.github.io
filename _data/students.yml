@@ -8,65 +8,86 @@
 #  education3:
 #  education4:
 
-- name: Issa Baddour (PhD 2020 - ) jointly with Prof. Somitra K. Sanadhya
+- name: Issa Baddour, jointly with Prof. Somitra K. Sanadhya
   photo: rock.jpg
-  info: PhD student
+  info: PhD student (2020 - )
   email: email@iitj.ac.in
   number_educ: 0
   education1:
 
-- name: Sagar Satapathy (PhD 2020
+- name: Sagar Satapathy
   photo: rock.jpg
-  info: PhD student
+  info: PhD student (2020 - )
   email:
   number_educ: 0
   education1:
 
-- name: Kopal Rastogi (PhD 2021 - ) jointly with Dr. Dipanjan Roy
+- name: Kopal Rastogi, jointly with Dr. Dipanjan Roy
   photo: rock.jpg
-  info: PhD student
+  info: PhD student (2021 - )
   email:
   number_educ: 0
   education1:
 
-- name: Umme Abiha (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+- name: Umme Abiha (PhD  ), jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
   photo: rock.jpg
-  info: PhD student
+  info: PhD Medical Technologies student (2021 - )
   email:
   number_educ: 0
   education1:
 
-- name: Harsh Saxena (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+- name: Harsh Saxena, jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
   photo: rock.jpg
-  info: PhD student
+  info: PhD Medical Technologies student (2021 - )
   email:
   number_educ: 0
   education1:
 
-- name: Ankit Kumar (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+- name: Ankit Kumar, jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
   photo: rock.jpg
-  info: PhD student
+  info: PhD Medical Technologies student (2021 - )
   email:
   number_educ: 0
   education1:
 
-- name: Dixit Dutt Bohra (PhD 2023 - ) jointly with Prof. Somitra K. Sanadhya
+- name: Dixit Dutt Bohra, jointly with Prof. Somitra K. Sanadhya
   photo: rock.jpg
-  info: PhD student
+  info: PhD student (2023 - )
   email:
   number_educ: 0
   education1:
 
-- name: Prakash Narain (PhD 2023 - )
+- name: Prakash Narain
   photo: rock.jpg
-  info: PhD student
+  info: PhD student (2023 - )
   email:
   number_educ: 0
   education1:
 
-- name: Prajjwal Nijhara (MTech-PhD 2023 - )
+- name: Prajjwal Nijhara
   photo: rock.jpg
-  info: PhD student
+  info: MTech-PhD student (2023 - )
+  email:
+  number_educ: 0
+  education1:
+
+  - name: Jainan Tandel
+  photo: rock.jpg
+  info: Mtech student (MTech 2023 - 2025)
+  email:
+  number_educ: 0
+  education1:
+
+- name: Satyaswaroop Nayak
+  photo: rock.jpg
+  info: Mtech student (MTech 2023 - 2025)
+  email:
+  number_educ: 0
+  education1:
+
+- name: Smarika Verma
+  photo: rock.jpg
+  info: Mtech student (MTech 2023 - 2025)
   email:
   number_educ: 0
   education1:

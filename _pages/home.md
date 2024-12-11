@@ -6,8 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Computer Science Engineering, IIT Jodhpur](http://cse.iitj.ac.in/). Te main research focus of the group is in computing systems specifically targeted for next generation of artificial intelligence, Internet of Things, networks, and communications. A core tenet of the lab is in pursuing inter-disciplinary work that bridges different application areas, engineering, and theory. Additionaly we aim at performing translational work that can lead to development of products and prototypes with potential impact on the general mass, from the aspects of security, privacy, wellness, and quality of life. 
+We are a dynamic research group within the [Department of Computer Science Engineering, IIT Jodhpur](http://cse.iitj.ac.in/), advancing the frontiers of computing systems and computational sciences. Our work is focused on solving challenging problems in high-performance computing, data analytics, and computer architecture, with applications spanning life sciences, complex networks, and pervasive data analysis.
 
+A key tenet of our lab is pursuing interdisciplinary research, bridging computational sciences with life sciences and medical technologies, while driving innovation in hardware and software systems. We are committed to performing translational work that leads to impactful prototypes and solutions, addressing critical challenges in security, wellness, and quality of life.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,42 +57,32 @@ We are a dynamic research group at the [Department of Computer Science Engineeri
   </a>
 </div>
 
+### **Our Current Research Areas Include:**
+(see [Research](research))
 
+#### **High-Performance Computing**
+- Graph Algorithms  
+- Social Networks and Complex Networks  
+- GPU Computing  
+- Runtime Design  
 
-Our main highlight researh areas can be listed as follows: (see [Research](research))
-* Pervasive/Ubiquitous computing and Mobile computing
-    * Smartphone Sensing
-    * Ambient sensing
-    * Social sensing
-    * Crowdsourcing
-* Internet of Things, Edge/Fog Computing
-    * Multi-access edge computing
-    * Information Centric Networking
-    * Named Data Networking
-    * Software Defined Networking
-    * Network Virtualization
-    * Federated learning
-* Applications
-    * Smart health
-    * Autonomous vehicles
-    * Smart living
-* Security and Privacy
-    * Blockchain
-* Software Architectures
-    * Software Design Patterns
-    * Software Engineering
-    * Quality Attributes
-* High Performance Computing
-    * Massive Graph Analytics
-    * Accelerated Machine Learning
-    * Runtime for HPC
-    * Out-of-core algorithms
-* Computer Architectures
-    * Approximate Computing
-    * In-memory computing
-    * Hardware security
-    * Low power memory design
-    * Emerging memory technologies
+#### **Bioinformatics and Computational Sciences**
+- Genomic Data Analysis  
+- Computational Sciences  
+- Interdisciplinary work at the intersection of life sciences, computational sciences, and medical technologies  
+
+#### **Computer Architecture**
+- Approximate Computing  
+- Accelerator Design  
+- Memory Design  
+- Neuromorphic Architectures  
+- Programming Models  
+
+#### **Hardware Security**
+
+#### **Data Analytics**
+- Ubiquitous/Pervasive Data Analysis
+
   
 We are located at Indian Institute of Technology Jodhpur. Jodhpur (also known as the blue city/the sun city) is a city steeped in history, colors, and an wonderful environment for conducting research and pursuing higher studies. We regularly collaborate with several other instititions across the country and also abroad. Overall, the lab provides a conducive atmosphere for not only academic but also personal growth.
 

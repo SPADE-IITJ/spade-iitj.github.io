@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -163,9 +163,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -189,9 +189,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
 
 ## Administrative Support
-Reach us via our <a href="mailto:SPADElab@cse.iitj.ac.in">direct email</a> for further discussions on possible positions, collaborations, and join research activities.   
-<a href="mailto:office_cse@iitj.ac.in">Office CSE, IITJ</a> is helping us (and other groups) with administration. You can additionally also email individual faculty members for more information on the work that they are pursuing.
+Reach us via email for further discussions on possible positions, collaborations, and join research activities. <a href="mailto:office_cse@iitj.ac.in">Office CSE, IITJ</a> is helping us (and other groups) with administration. You can additionally also email individual faculty members for more information on the work that they are pursuing.
