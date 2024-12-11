@@ -71,7 +71,7 @@ permalink: /publications/
 
 ## Posters
 
-{% for poster in site.data.poster %}
+{% for poster in site.data.posters %}
 
   {{ publi.title }} <br />
   <em>{{ poster.authors }} </em><br /> {{ poster.link.display }}
