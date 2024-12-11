@@ -73,7 +73,7 @@ permalink: /publications/
 
 {% for poster in site.data.posters %}
 
-  {{ publi.title }} <br />
+  {{ poster.title }} <br />
   <em>{{ poster.authors }} </em><br /> {{ poster.link.display }}
 
 {% endfor %}
